@@ -1,5 +1,5 @@
 # Data-Projects-Triple-Ten
-Projects I worked on while attending the Data Analysis TripleTen Bootcamp.
+Projects I worked on while attending the Business Analysis TripleTen Bootcamp.
 
 
 | Project number | Title | Description |
