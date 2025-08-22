@@ -1,0 +1,27 @@
+## 📋 Requirements (Fine Print)
+
+- **Data Assumptions**
+  - Number of reviews used as a proxy for listing popularity.  
+  - `0` in the `bedroom_clean` column represents a **studio**.  
+  - Annual revenue estimated by multiplying **30-day revenue × 12**.  
+  - Calendar data only covers **30 days**, so scaling was required.  
+  - A value of `1` in `top_listings` indicates the listing met investment criteria.  
+
+- **Data Cleaning & Processing**
+  - Standardized neighborhood names (`neighborhood_clean`) by trimming whitespace and formatting.  
+  - Recoded bedrooms to clearly identify studios vs. multi-bedroom units.  
+  - Added calculated fields for **top listings** and **revenue earned**.  
+  - Created pivot tables for:
+    - Top neighborhoods by reviews  
+    - Bedroom distribution by neighborhood  
+    - Revenue earned per listing  
+
+- **Change Log**
+  - **v1.1** – Cleaned neighborhood data.  
+  - **v1.2** – Added pivot table & bar chart of top neighborhoods.  
+  - **v1.3** – Cleaned bedroom data (studios labeled as 0).  
+  - **v1.4** – Added pivot table of bedroom count by neighborhood.  
+  - **v1.5** – Introduced `top_listings` flag.  
+  - **v1.6** – Added revenue calculation to listings & calendar data.  
+  - **v1.7** – Pivot table of revenue earned by property ID.  
+  - **v1.8** – Annual revenue field added.  
