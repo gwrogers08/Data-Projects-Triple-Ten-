@@ -30,4 +30,11 @@ By combining data exploration, visualization, and business intelligence techniqu
 - **Exploratory Data Analysis (EDA):** Visualized pricing, occupancy, and neighborhood patterns.  
 - **Final Report:** Recommendations tailored for investors considering the Manhattan market.
 
+---
+
+## 📬 Recommendations
+- Focus investments in **high-demand Manhattan neighborhoods** identified in the analysis.  
+- Target **1–2 bedroom properties** for optimal balance between occupancy and revenue.  
+- Use **dynamic pricing strategies** to maximize profitability during peak demand periods.  
+
 
