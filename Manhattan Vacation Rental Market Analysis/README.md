@@ -1,40 +1,71 @@
 # 🏙️ Manhattan Vacation Rental Market Analysis
 
 ## 📌 Project Overview
-This project focuses on analyzing the **Manhattan vacation rental market** using Airbnb data.  
-The goal was to provide investment recommendations for a client interested in short-term rental opportunities.  
+You've been hired to help a client analyze the Manhattan vacation rental market.  
+They want guidance on **which property types to invest in**, and your task is to analyze **Airbnb data** for insights.
 
-**Key Business Questions:**
-1. Which **neighborhoods** and **property sizes (bedroom counts)** are most attractive for vacation rentals?  
-2. How much **revenue** did these listings generate?  
-
-By combining data exploration, visualization, and business intelligence techniques, this analysis offers insights to guide profitable investment decisions.
+This analysis answers two key questions:
+1. Which **neighborhoods** and **property sizes** (number of bedrooms) are most attractive for vacation rentals?  
+2. How much **revenue** do these listings generate annually?
 
 ---
 
-## 📊 Tools & Technologies
-- **Excel & Google Sheets** (data cleaning & validation)  
+## 📊 Data Sources
+The analysis is based on **Inside Airbnb** datasets, including:
+- **Listings data** (property details, host info, reviews, pricing)
+- **Calendar data** (daily availability & pricing for 30 days)
 
 ---
 
-## 🔍 Key Insights
-- Certain **Manhattan neighborhoods** consistently outperform others in terms of occupancy and revenue potential.  
-- **1–2 bedroom properties** strike the best balance between demand and profitability.  
-- Larger properties generate higher nightly rates, but may not always yield better **occupancy-adjusted revenue**.  
-- Revenue trends highlight that **location** is a stronger determinant of success than property size alone.  
+## ⚙️ Methodology
+- Cleaned and standardized neighborhood and bedroom data.
+- Created pivot tables and aggregations for:
+  - Top neighborhoods by number of reviews.
+  - Bedroom distribution by neighborhood.
+  - Revenue earned per property (scaled to annual revenue).
+- Used **number of reviews** as a popularity proxy.
+- Estimated **annual revenue** by multiplying 30-day earnings × 12.
 
 ---
 
-## 📑 Deliverables
-- **Data Cleaning & Preparation:** Ensured accuracy of Airbnb listings data.  
-- **Exploratory Data Analysis (EDA):** Visualized pricing, occupancy, and neighborhood patterns.  
-- **Final Report:** Recommendations tailored for investors considering the Manhattan market.
+## 📈 Key Findings
+
+### 🔑 Top Neighborhoods (by reviews)
+- **Lower East Side** – 6,242 reviews  
+- **Hell’s Kitchen** – 5,506 reviews  
+- **Harlem** – 5,157 reviews  
+- **Midtown** – 4,128 reviews  
+- **Upper West Side** – 3,497 reviews  
+
+These areas have the strongest guest demand and are highly attractive for investors.
 
 ---
 
-## 📬 Recommendations
-- Focus investments in **high-demand Manhattan neighborhoods** identified in the analysis.  
-- Target **1–2 bedroom properties** for optimal balance between occupancy and revenue.  
-- Use **dynamic pricing strategies** to maximize profitability during peak demand periods.  
+### 🛏️ Property Size Trends
+- Studios (0 bedrooms) and **1-bedroom units** dominate the market across most neighborhoods.  
+- Larger apartments (2–3 bedrooms) appear in Harlem, Hell’s Kitchen, and the Upper West Side, but are less common overall.  
+- Investors should prioritize **1-bedroom listings**, which balance affordability with strong demand.
+
+---
+
+### 💰 Revenue Insights
+- Top-performing listings generated **$100K–$350K in estimated annual revenue**.  
+- Example: One Lower East Side property earned ~$359,280 annually.  
+- Properties in **prime neighborhoods + 1–2 bedrooms** consistently outperform others.  
+
+---
+
+## ✅ Recommendations
+- Focus on **Lower East Side, Hell’s Kitchen, Harlem, and Midtown** for new investments.  
+- Target **1-bedroom units** for the best mix of popularity and profitability.  
+- Consider select **2–3 bedroom properties** in Harlem or Upper West Side for higher nightly rates and group travelers.  
+
+---
+
+## 🛠️ Tools & Skills Demonstrated
+- **Excel / Pivot Tables** for data aggregation & analysis  
+- **Data Cleaning & Transformation**  
+- **Business Intelligence Analytics**  
+- **Revenue Forecasting**  
 
 
