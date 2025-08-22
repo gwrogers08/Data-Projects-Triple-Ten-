@@ -1,40 +1,32 @@
-📋 Project Requirements 
+## 📋 Project Requirements 
 
-Objective:
-Prepare a concise Business Intelligence report for stakeholders at Fresh Beats, summarizing trends, insights, and actionable recommendations to improve user engagement and conversion.
+**Objective**  
+Prepare a concise **Business Intelligence report** for stakeholders at **Fresh Beats**, summarizing trends, insights, and actionable recommendations to improve user engagement and conversion.  
 
-Inputs Provided:
+---
 
-Historical dataset of music streaming activity (2018–2023).
+**Inputs Provided**  
+- Historical dataset of music streaming activity (2018–2023)  
+- Pre-prepared visualizations and insights  
+- Report template to ensure stakeholder-friendly formatting  
 
-Pre-prepared visualizations and insights.
+---
 
-Report template to ensure stakeholder-friendly formatting.
+**Requirements**  
+- Select **relevant insights and visuals** from those provided  
+- Summarize findings in **clear, non-technical language** for stakeholders  
+- Connect data insights to **business challenges** (user engagement, paid conversion, genre popularity)  
+- Provide **at least 3 actionable recommendations** for the product and marketing teams  
+- Highlight **differences between free vs. paid listeners** and **genre engagement trends**  
+- Ensure the report is structured with:  
+  - ✅ Status Summary  
+  - ✅ Insights & Recommendations (3 sections minimum)  
+  - ✅ Conclusion with business impact  
 
-Requirements:
+---
 
-Select relevant insights and visuals from those provided.
+**Constraints**  
+- 🚫 Do **not** conduct your own statistical calculations (focus on interpretation)  
+- 🚫 Stick to the visuals and dataset provided — selection and storytelling matter more than building new charts  
+- 📝 Write in a format suitable for **executive stakeholders** (concise, visually guided, actionable) 
 
-Summarize findings in clear, non-technical language for stakeholders.
-
-Connect data insights to business challenges (user engagement, paid conversion, genre popularity).
-
-Provide at least 3 actionable recommendations for the product and marketing teams.
-
-Highlight differences between free vs. paid listeners and genre engagement trends.
-
-Ensure the report is structured with:
-
-Status Summary
-
-Insights & Recommendations (3 sections minimum)
-
-Conclusion with business impact
-
-Constraints:
-
-Do not conduct your own statistical calculations (focus on interpretation).
-
-Stick to the visuals and dataset provided — selection and storytelling matter more than building new charts.
-
-Write in a format suitable for executive stakeholders (concise, visually guided, actionable).
