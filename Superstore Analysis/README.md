@@ -27,7 +27,7 @@ The project is divided into three major parts:
 - Products to eliminate:  
   - GBC DocuBind P400, Cubify CubeX 3D Printer, Bush Advantage Collection  
 - Subcategories to **focus on**: Copiers, Phones, Accessories  
-- Subcategories to **eliminate**: Tables, Bookcases, Supplies:contentReference[oaicite:1]{index=1}
+- Subcategories to **eliminate**: Tables, Bookcases, Supplies
 
 ---
 
