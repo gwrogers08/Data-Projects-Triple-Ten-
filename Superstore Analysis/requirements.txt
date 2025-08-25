@@ -1,0 +1,37 @@
+## ✅ Project Requirements 
+
+To successfully complete this project, the following requirements had to be met:
+
+1. **Data Analysis**
+   - Use the provided **Superstore dataset** (Orders + Returns tables).
+   - Perform a **LEFT JOIN** between Orders and Returns to capture both returned and non-returned transactions.
+   - Create calculated fields (e.g., converting null returns to 0, “Yes” to 1).
+
+2. **Visualization**
+   - Each research question must be answered with at least **one dedicated visualization**.  
+   - Visuals must be clear, properly labeled, and support the business conclusion.  
+   - Visualizations created primarily in **Tableau** (or equivalent BI tool).  
+
+3. **Business Questions to Address**
+   - Identify the **top 2 profit centers** and **top 2 loss centers**.  
+   - Determine which **products** and **subcategories** to stop selling vs. focus on.  
+   - Evaluate **advertising ROI** by:
+     - Finding the top 3 state-month combinations for profit.  
+     - Calculating suggested ad spend (1/5 of profits).  
+   - Analyze **returned items** by:
+     - Highest-return products.  
+     - Highest-return customers.  
+     - Relationship between return rate and profit across chosen dimensions.  
+   - Provide actionable recommendations supported by data.  
+
+4. **Deliverables**
+   - A written **report** summarizing key findings and recommendations.  
+   - A set of **data visualizations** (Tableau dashboards) answering each business question.  
+   - Exported **PDF report** for submission.  
+
+5. **Evaluation Criteria (Rubric)**
+   - Accuracy of analysis and correctness of calculations.  
+   - Quality and clarity of visualizations.  
+   - Strength of business insights and recommendations.  
+   - Professionalism of written report.  
+   - Proper use of BI tools and analytical methods.  
