@@ -39,7 +39,7 @@ The project is divided into three major parts:
 - Recommended **ad budgets** (based on 1/5 profit rule):  
   - MN: $168.6  
   - IN: $149.4  
-  - VT: $119.2:contentReference[oaicite:2]{index=2}
+  - VT: $119.2
 
 ---
 
@@ -48,7 +48,7 @@ The project is divided into three major parts:
 - **Customers with highest return rate**: Roland Murray, Hilary Holden, Sandra Glassco  
 - **State-level recommendations**:  
   - ✅ Keep doing business in: Vermont, Rhode Island, Indiana  
-  - ❌ Stop doing business in: Ohio, Texas, Colorado:contentReference[oaicite:3]{index=3}
+  - ❌ Stop doing business in: Ohio, Texas, Colorado
 
 ---
 
