@@ -1,0 +1,42 @@
+## ✅ Project Requirements
+
+To successfully complete this project, the following requirements were set:
+
+1. **Data Exploration**
+   - Use the provided `raw_user_activity` dataset.  
+   - Understand each column and its role in customer behavior analysis:
+     - `user_id`, `event_type`, `category_code`, `brand`, `price`, `event_date`.
+
+2. **Conversion Funnel**
+   - Build a funnel showing:
+     - Number of users who viewed a product page.  
+     - Number who added an item to their shopping cart.  
+     - Number who completed a purchase.  
+   - Calculate **conversion rates** at each step.
+
+3. **Cohort & Retention Analysis**
+   - Group users by their **first purchase month**.  
+   - Track each cohort’s activity for up to **4 months**.  
+   - Calculate **retention rates** as:  
+     \[
+     \text{Retention Rate} = \frac{\text{Customers active in later month}}{\text{Customers in initial cohort}}
+     \]
+
+4. **Executive Summary**
+   - Prepare a concise written report explaining:  
+     - Key findings from the funnel and retention analysis.  
+     - Business implications (why these insights matter).  
+     - Recommendations for improving conversion and retention.  
+
+5. **Tools & Methods**
+   - Perform analysis in **Google Sheets or Excel**.  
+   - Use **pivot tables, formulas, and charts** to calculate metrics.  
+   - Present results clearly with tables and visualizations.
+
+---
+
+⚠️ **Fine Print**
+- Do not drop columns unless justified — use as much of the dataset as possible.  
+- Focus on **user-level analysis** (unique customers, not just events).  
+- Insights should connect back to **business outcomes** (i.e., how the company can retain more customers or increase purchases).  
+- Document all steps so findings are **transparent and reproducible**.  
