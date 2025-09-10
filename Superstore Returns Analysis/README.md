@@ -46,8 +46,6 @@ The Tableau dashboard consolidated all key charts, enabling:
 * Filters to identify root causes quickly.
 * Storytelling flow from **overview → root causes → recommendations**.
 
-![Dashboard Example](link-to-dashboard-screenshot.png)
-
 ## 🧩 Key Findings
 
 1. **Customer Behavior** → A small number of customers accounted for a significant share of costly returns.
@@ -68,18 +66,3 @@ The Tableau dashboard consolidated all key charts, enabling:
 * Tableau Worksheets (scatterplots, bar charts, maps, time series)
 * Dashboard (mock-ups, template, and final version)
 * Story Arc & Presentation (with key findings and recommendations)
-* PDF Report: [Superstore Returns Analysis](./Superstore%20Returns%20Analysis.pdf)
-
-## 🎥 Presentation
-
-Prepared a **3–5 minute Tableau Story presentation** demonstrating:
-
-* Root causes of returns
-* How to use the dashboard interactively
-* Recommended next steps for management
-
----
-
-📌 **Author:** Greg Rogers
-📌 **Portfolio Project:** Business Intelligence Analytics
-📌 **Tools:** Tableau, Data Visualization, Storytelling with Data
