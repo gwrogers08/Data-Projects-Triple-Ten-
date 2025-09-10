@@ -1,3 +1,7 @@
+## ✅ Project Requirements 
+
+To successfully complete this project, the following requirements had to be met:
+
 ## Data Preparation
 - Join **Orders** and **Returns** tables (LEFT JOIN).  
 - Create a **Returned** field: `Yes = 1`, `Null = 0`.  
@@ -24,3 +28,4 @@
   - Chart explanations & dashboard demo  
   - Recommendations and next steps  
 - Submit **draft captions-only version** + final story.  
+
