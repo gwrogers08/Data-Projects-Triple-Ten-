@@ -1,0 +1,26 @@
+## Data Preparation
+- Join **Orders** and **Returns** tables (LEFT JOIN).  
+- Create a **Returned** field: `Yes = 1`, `Null = 0`.  
+- Use it to calculate **return rate** and **total returns**.  
+
+## Worksheets
+- Scatterplot → Sales vs. Returns by subcategory.  
+- Bar chart → Return rate by category.  
+- Customer return rate (customers with ≥ 2 orders).  
+- Map → Return rate by geography (state/city).  
+- Time series → Return rate by month/week.  
+- At least **2 composite charts** mixing multiple factors.  
+
+## Dashboard
+- Sketch **3 mock-ups** (pen & paper).  
+- Build a Tableau dashboard template with containers.  
+- Add worksheets, titles, legends, and final touches.  
+
+## Storytelling
+- Create a **story arc** with:  
+  - Summary of findings  
+  - Best measure of returns (rate, cost, or volume)  
+  - Key root causes  
+  - Chart explanations & dashboard demo  
+  - Recommendations and next steps  
+- Submit **draft captions-only version** + final story.  
