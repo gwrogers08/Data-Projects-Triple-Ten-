@@ -29,3 +29,7 @@ To successfully complete this project, the following requirements had to be met:
   - Recommendations and next steps  
 - Submit **draft captions-only version** + final story.  
 
+## Presentation
+- Prepare a **3–5 minute Tableau Story presentation**.  
+- Must include findings, dashboard use, and recommendations.  
+- Submit as **screen recording** (QuickTime / Windows recorder) or **PDF export**.  
