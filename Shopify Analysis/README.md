@@ -1,4 +1,4 @@
-# Shopify App Analysis (Power BI Project)
+# Shopify App Analysis (Power BI)
 
 ## 📊 Project Overview
 This project analyzes the **landscape of apps on the Shopify platform** using data scraped from publicly available Shopify websites. The goal is to identify key factors that contribute to the success of a Shopify app.  
