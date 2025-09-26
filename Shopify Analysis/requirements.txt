@@ -1,0 +1,42 @@
+# Requirements (Fine Print)
+
+## 📦 Data
+- `shopify.xlsx` file containing the following tables:
+  - **apps** – Shopify app details  
+  - **apps_categories** – Join table for apps ↔ categories  
+  - **categories** – App category metadata  
+  - **reviews** – Review text, ratings, helpful count, developer replies  
+
+---
+
+## 🖥 Software
+- **Power BI Desktop** (latest version recommended)  
+- Excel or CSV-compatible software (for initial data preview, optional)  
+
+---
+
+## 🛠 Skills & Concepts
+- Data modeling (establishing many-to-one relationships in Power BI)  
+- DAX expressions (calculated columns, KPIs, weighted metrics)  
+- Data visualization (KPI cards, line charts, scatterplots, bar charts)  
+- Business intelligence concepts (app landscape, customer review sentiment, developer responsiveness)  
+
+---
+
+## 📋 Deliverables
+1. **Power BI Report (.pbix)** with 3 report sections:
+   - **App Landscape** – KPIs, review count trends, scatterplot insights  
+   - **Reviews** – Weighted helpfulness metrics, developer responsiveness analysis  
+   - **App Reviews** – Developer performance comparisons, filtered by engagement  
+2. **Screenshots** of each visualization, annotated with interpretations  
+3. **PDF Report** compiling visuals and insights  
+
+---
+
+## ✅ Completion Checklist
+- [ ] Load `shopify.xlsx` into Power BI  
+- [ ] Create new report pages for **App Landscape**, **Reviews**, and **App Reviews**  
+- [ ] Add calculated columns (`helpful_reviews`, `developer_answered`)  
+- [ ] Build required KPIs, scatterplots, line charts, and bar charts  
+- [ ] Annotate findings directly in Power BI or supporting notes  
+- [ ] Export report screenshots into a compiled PDF  
