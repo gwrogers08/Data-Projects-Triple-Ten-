@@ -1,0 +1,43 @@
+# Requirements (Fine Print)
+
+## 📦 Data
+- `Zomato data.zip` archive containing 5 tables:
+  - **food** – details of food items  
+  - **menu** – restaurant menus  
+  - **orders** – order-level sales and quantity data  
+  - **restaurant** – restaurant metadata  
+  - **users** – customer demographics (age, gender, income, etc.)  
+
+---
+
+## 🖥 Software
+- **Power BI Desktop** (latest version recommended)  
+- Spreadsheet software (Excel/CSV viewer) for initial data inspection (optional)  
+
+---
+
+## 🛠 Skills & Concepts
+- **Data Modeling**: joining multiple tables (users, orders, restaurants, etc.)  
+- **DAX Calculations**: KPIs, custom metrics, aggregations  
+- **Data Visualization**: KPI cards, bar charts, line charts, segmentation visuals  
+- **Segmentation & Profiling**: customer demographics, income, occupation  
+- **Business Intelligence**: sales trends, customer behavior, performance reporting  
+
+---
+
+## 📋 Deliverables
+1. **Power BI Report (.pbix)** with dashboards focused on **Customer Analysis** (or one of the other two areas: Restaurant or Sales)  
+2. **Screenshots** of all visuals, annotated with insights  
+3. **PDF Report** compiling visuals and written analysis  
+4. **GitHub Repository** for portfolio showcase  
+
+---
+
+## ✅ Completion Checklist
+- [ ] Load `Zomato data.zip` into Power BI  
+- [ ] Choose **one analysis area** (Customer, Restaurant, or Sales)  
+- [ ] Build data model with relationships between tables  
+- [ ] Create calculated measures/columns for KPIs  
+- [ ] Develop visuals for demographics, purchasing behavior, and sales trends  
+- [ ] Annotate insights directly in the dashboard or report notes  
+- [ ] Export report screenshots into a PDF deliverable  
