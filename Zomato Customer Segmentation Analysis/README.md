@@ -68,9 +68,6 @@ Below are some highlights from the dashboard (full PDF contains all visuals):
 - **Top customers** by revenue contribution  
 - Sales performance by **Family size, Education, and Marital status**  
 
-![Customer Segmentation](screenshot-customer-segmentation.png)  
-*(Replace with actual screenshot from your Power BI report)*  
-
 ---
 
 ## 📈 Key Takeaways
