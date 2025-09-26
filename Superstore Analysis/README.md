@@ -1,4 +1,4 @@
-# 📊 Superstore Business Analytics Project
+# 📊 Superstore Business Analytics 
 
 ## 📌 Project Overview
 Tasked with analyzing operations to identify profit centers, loss-makers, advertising opportunities, and return patterns in order to increase profitability and avoid bankruptcy.  
