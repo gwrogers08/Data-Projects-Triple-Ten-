@@ -25,8 +25,7 @@ The dataset (`shopify.xlsx`) contains 4 tables:
 - **Scatterplot** – Review count vs. average rating, annotated with insights  
 
 **Key Insight:**  
-Most apps fall within **1–5k reviews**, with average ratings clustering between **4–5 stars**:contentReference[oaicite:1]{index=1}.  
-
+Most apps fall within **1–5k reviews**, with average ratings clustering between **4–5 stars**
 ---
 
 ### **Part 2: Reviews**
