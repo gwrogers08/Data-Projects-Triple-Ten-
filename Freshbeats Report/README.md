@@ -1,4 +1,4 @@
-# 🎶 Fresh Beats Business Intelligence Report
+# 🎶 Fresh Beats Business Report
 
 ## 📌 Project Overview
 This project was completed as part of my **Business Intelligence Analytics training**.  
