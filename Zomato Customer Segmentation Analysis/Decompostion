@@ -1,0 +1,32 @@
+-name: Greg Rogers
+
+-company working for: Zomato 
+
+-question being answered: look at user data and figure out strategies for optimizing zomato for the customer
+	-Personalize marketing campaigns for different groups
+	-Improve app recommendations based on segment behavior
+	-Develop targeted promotions that resonate with specific segments
+	-Optimize restaurant partnerships based on customer preferences
+	-Predict customer lifetime value and retention strategies
+
+-tables going to be used,(User <- order) how they are joined together, 
+	-users is base, orders joined to it. (have to have a dataset from user)
+
+-who are our zomato customers
+	- KPI (total number of customers)(KPI card)
+	- gender (Bar graph) 
+	- will split them into education level (bar graph)
+
+-what segments can we split them into?
+	- By ordering frequency (frequent vs. occasional users)
+	- By spending patterns (high-value vs. budget-conscious)
+	- By food preferences (cuisine types, dietary restrictions)
+	- By ordering behavior (lunch vs. dinner, weekday vs. weekend)
+
+-what is their purchasing behavior
+	- multiple orders (pie chart (yes/no))
+	- amount spent (bar graph)
+	- time of year ordered (line graph)
+	- popular resteraunts (bar graph)
+
+
