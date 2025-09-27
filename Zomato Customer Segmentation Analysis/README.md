@@ -1,4 +1,4 @@
-# Zomato BI Analytics Project (Power BI)
+# Zomato Customer Segmentation Analysis
 
 ## 📊 Project Overview
 As part of the **onboarding process at Zomato**, I was tasked with performing a business intelligence analysis on company data.  
