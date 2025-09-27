@@ -1,4 +1,4 @@
-# 🛒 Business Analytics Project — E-Commerce User Behavior
+# 🛒 E-Commerce Business Analysis
 
 ## 📌 Project Overview
 **explore user activity data** to uncover insights about customer behavior, conversion rates, and retention trends. The dataset captures each step in a customer’s journey — from viewing a product to making a purchase.
